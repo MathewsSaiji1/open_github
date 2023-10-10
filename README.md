@@ -1,3 +1,3 @@
 # open_github
 
-things 
+things for trigger
